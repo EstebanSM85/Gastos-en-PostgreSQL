@@ -8,7 +8,7 @@ public class ConexionPostgres {
 
     private static final String URL = "jdbc:postgresql://localhost:5432/gastos_db";
     private static final String USUARIO = "postgres";
-    private static final String PASSWORD = "P3p83pyv1609+pos";
+    private static final String PASSWORD = "Contraseña oculta por seguridad";
 
     public Connection conectar() {
         try {
