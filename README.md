@@ -50,7 +50,7 @@ Archivo: ConexionPostgres.java
   
     URL: jdbc:postgresql://localhost:5432/gastos_db
     Usuario: postgres
-    Contraseña: P3p83pyv1609+pos
+    Contraseña: contraseña oculta por seguridad
 
 
 
